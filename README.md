@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Convo](https://github.com/jainthakhil/Convo)
 
-- 🌱 I’m currently learning **Three.js and gsap and upskilling AIML**
+- 🌱 I’m currently **upskilling AIML**
 
 - 👨‍💻 All of my projects are available at [https://apoorva-p-portfolio-5zpe.vercel.app/](https://apoorva-p-portfolio-5zpe.vercel.app/)
 
-- 📫 How to reach me **apoorvapanwar488@gmail.com**
+- 📫 Reach me at **apoorvapanwar488@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/drive/folders/1-0jbusOxUW08q6c-2FM6ysEme0dIj4J5?usp=sharing](https://drive.google.com/drive/folders/1-0jbusOxUW08q6c-2FM6ysEme0dIj4J5?usp=sharing)
+- 📄 Visit to see my resume [https://drive.google.com/drive/folders/1-0jbusOxUW08q6c-2FM6ysEme0dIj4J5?usp=sharing](https://drive.google.com/drive/folders/1-0jbusOxUW08q6c-2FM6ysEme0dIj4J5?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
