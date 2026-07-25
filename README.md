@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apoorvap432" alt="apoorvap432" /></a> </p>
 
-- 🔭 I’m currently working on [Convo](https://github.com/jainthakhil/Convo)
+- 🔭 I’m currently working on development projects
 
-- 🌱 I’m currently **upskilling AIML**
+- 🌱 I’m currently **upskilling Java and React**
 
 - 👨‍💻 All of my projects are available at [https://apoorva-p-portfolio-5zpe.vercel.app/](https://apoorva-p-portfolio-5zpe.vercel.app/)
 
