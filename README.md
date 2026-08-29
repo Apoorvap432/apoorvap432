@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=apoorvap432&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=apoorvap432&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=apoorvap432&icon=4&color=10)](https://visitcount.itsvg.in)
