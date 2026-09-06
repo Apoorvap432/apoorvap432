@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br><br>🌱 I’m currently upskilling in Java and React<br><br>👨‍💻 All of my projects are available at https://apoorva-p-portfolio-5zpe.vercel.app/<br><br>📫 Reach me at apoorvapanwar488@gmail.com<br><br>📄 Visit to see my resume - [will update soon]
+🔭 I’m currently working on my portfolio<br><br>🌱 I’m currently upskilling in Java and React<br><br>👨‍💻 All of my projects are available at https://apoorva-p-portfolio-5zpe.vercel.app/<br><br>📫 Reach me at apoorvapanwar488@gmail.com<br><br>📄 Visit to see my resume - https://drive.google.com/file/d/1eALC3R-c2LcCrl7BWK3qH6nJa0BIHCN_/view?usp=sharing
 
 
 ## 🌐 Socials:
